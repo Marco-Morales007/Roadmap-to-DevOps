@@ -1,12 +1,12 @@
-# Progreso de Ejercicios en Python
+# Progreso de Ejercicios en Python DevOps
 
 ## Nivel 1: Fundamentos
 
 - [x] Ejercicio 1: entrada y salida de datos (basico)    —  COMPLETADO
-- [x] Ejercicio 2: calculadora basica  			 —  COMPLETADO
+- [x] Ejercicio 2: calculadora basica  			         —  COMPLETADO
 - [x] Ejercicio 3: renombrar archivos en masa          	 —  COMPLETADO
-- [ ] Ejercicio 4: buscar archivos duplicados por nombre —  Pendiente
-- [ ] Ejercicio 5: script de backup local             	 —  Pendiente
+- [x] Ejercicio 4: buscar archivos duplicados por nombre —  COMPLETADO
+- [x] Ejercicio 5: script de backup local + log        	 —  COMPLETADO
 
 ---
 
