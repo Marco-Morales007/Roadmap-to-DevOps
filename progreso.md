@@ -1,12 +1,12 @@
 # Progreso de Ejercicios en Python DevOps
 
-## Nivel 1: Fundamentos
+## Nivel 2: Automatización + uso de red + APIs
 
-- [x] Ejercicio 1: entrada y salida de datos (basico)    —  COMPLETADO
-- [x] Ejercicio 2: calculadora basica  			         —  COMPLETADO
-- [x] Ejercicio 3: renombrar archivos en masa          	 —  COMPLETADO
-- [x] Ejercicio 4: buscar archivos duplicados por nombre —  COMPLETADO
-- [x] Ejercicio 5: script de backup local + log        	 —  COMPLETADO
+- [x] Ejercicio 1: Ping a servidores remotos + guardar resultados    —  COMPLETADO
+- [x] Ejercicio 2: Monitor simple de espacio en disco 			     —  PENDIENTE
+- [x] Ejercicio 3: Llamada a una API REST (pública)             	 —  PENDIENTE
+- [x] Ejercicio 4: Script programado con cron                        —  PENDIENTE
+- [x] Ejercicio 5: Analizador de logs       	                     —  PENDIENTE
 
 ---
 
