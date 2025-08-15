@@ -6,19 +6,6 @@ path = "/home/tilin/Desktop/my_project/nivel_1-Fundamentos/ejercicio3/"
 contador = 1
 
 old_name = "texto1.txt"
-#new_name = fecha.date()
-#print(new_name)
-
-"""
-for file_name in os.listdir(path):
-    fuente = path + file_name
-
-    destino = str(fecha.date()) + str(contador) + ".txt"
-    os.rename(fuente, destino)
-    new_name = str(fecha.date())
-    contador += 1
-print("Todos los archivos renombrados correctamente...")
-"""
 
 for file_name in os.listdir(path):
     try:
@@ -34,3 +21,13 @@ for file_name in os.listdir(path):
     contador += 1
 
 
+"""
+for file_name in os.listdir(path):
+    fuente = path + file_name
+
+    destino = str(fecha.date()) + str(contador) + ".txt"
+    os.rename(fuente, destino)
+    new_name = str(fecha.date())
+    contador += 1
+print("Todos los archivos renombrados correctamente...")
+"""

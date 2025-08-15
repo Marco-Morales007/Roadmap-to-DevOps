@@ -1,0 +1,102 @@
+🟢 Nivel 1: Fundamentos y automatización básica
+🔹 1. Script de bienvenida
+
+    ✅ Crea un script que pida tu nombre y te dé un saludo personalizado.
+
+    ➕ Aprende: input(), print(), variables.
+
+🔹 2. Calculadora de operaciones básicas
+
+    ✅ Suma, resta, multiplicación y división.
+
+    ➕ Aprende: funciones, condicionales.
+
+🔹 3. Renombrar archivos en masa
+
+    ✅ Escribe un script que renombre todos los archivos .txt de una carpeta, agregando una fecha.
+
+    ➕ Aprende: os, datetime, for, os.rename.
+
+🔹 4. Buscar archivos duplicados por nombre
+
+    ✅ Encuentra archivos con el mismo nombre en distintas carpetas.
+
+    ➕ Aprende: os.walk, sets, manejo de rutas.
+
+🔹 5. Script de backup local
+
+    ✅ Copia los archivos de una carpeta a otra y guarda un log.
+
+    ➕ Aprende: shutil, logging, archivos .log.
+
+🟡 Nivel 2: Automatización + uso de red + APIs
+🔹 6. Ping a servidores remotos
+
+    ✅ Haz ping a varios sitios web y guarda los resultados.
+
+    ➕ Aprende: subprocess, os.system, with.
+
+🔹 7. Monitor simple de espacio en disco
+
+    ✅ Verifica cuánto espacio queda en disco, y si baja de un umbral, lanza una alerta.
+
+    ➕ Aprende: psutil o os.statvfs.
+
+🔹 8. Llamada a una API REST (pública)
+
+    ✅ Conéctate a una API (ej: JSONPlaceholder o OpenWeather) y muestra datos útiles.
+
+    ➕ Aprende: requests, json, manejo de errores.
+
+🔹 9. Script programado con cron
+
+    ✅ Haz un script que se ejecute cada X tiempo (ej: hace backup o imprime la hora).
+
+    ➕ Aprende: crontab, tareas repetitivas en Linux.
+
+🔹 10. Analizador de logs
+
+    ✅ Lee un archivo de log y saca estadísticas: errores por tipo, líneas con “ERROR”, etc.
+
+    ➕ Aprende: manejo de texto, re (regex), listas, diccionarios.
+
+🔴 Nivel 3: DevOps específico
+🔹 11. Script de prueba de servicios
+
+    ✅ Verifica si nginx, mysql o ssh están activos, y si no, los reinicia.
+
+    ➕ Aprende: subprocess, systemctl, status.
+
+🔹 12. Script para clonar repositorios de Git
+
+    ✅ Le das una lista de URLs de repos, los clona y crea carpetas.
+
+    ➕ Aprende: subprocess, git, bucles.
+
+🔹 13. Comparador de archivos de configuración
+
+    ✅ Compara dos archivos .conf y muestra diferencias.
+
+    ➕ Aprende: difflib, fileinput.
+
+🔹 14. Generador de contraseñas seguras
+
+    ✅ Script que cree contraseñas aleatorias seguras para servicios.
+
+    ➕ Aprende: random, secrets, string.
+
+🔹 15. Script que valide la conectividad de microservicios (simulado)
+
+    ✅ Da una lista de IPs/URLs, prueba conexión a puerto 80/443 y notifica si están caídos.
+
+    ➕ Aprende: socket, manejo de excepciones, color en terminal.
+
+🧠 ¿Cómo usar esta lista?
+
+    Avanza secuencialmente, no te brinques niveles sin practicar.
+
+    Para cada script, intenta escribirlo por ti mismo sin copiar de YouTube.
+
+    Luego intenta mejorarlos: por ejemplo, agregar logs, validaciones, más opciones.
+
+    Usa Git para versionarlos desde el inicio.
