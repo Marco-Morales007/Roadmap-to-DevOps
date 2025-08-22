@@ -1,3 +1,4 @@
 #ignorar los entornos virtuales
 **/venv/
 **/env/
+**/.env/
