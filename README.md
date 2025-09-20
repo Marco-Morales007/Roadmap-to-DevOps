@@ -56,7 +56,7 @@ ERROR lines:
   2025-09-20 13:01:32 ERROR OverflowError en cálculo de cuotas
   2025-09-20 13:05:22 ERROR No se pudo conectar a la base de datos (request_id=8977)
   2025-09-20 13:12:16 ERROR Excepción en módulo auth: IndexError
---
+
 
 Sertive test (microservices, simulated):
 
@@ -67,7 +67,7 @@ Failed to restart mysql.service: Unit mysql.service not found.
 FAIL: ssh se encuentra inactivo. Intentando reiniciar...  
 Failed to restart ssh.service: Unit ssh.service not found. # tampoco lo tengo instalado
  No se pudo reiniciar ssh (revisa permisos o logs)
---
+
 
 ## About
 This repository was created as part of my personal learning roadmap to DevOps/SRE.
