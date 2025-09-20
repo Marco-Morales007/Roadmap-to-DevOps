@@ -1,0 +1,200 @@
+2025-09-20 13:00:00 ERROR OverflowError en cálculo de cuotas (request_id=9845)
+2025-09-20 13:00:23 INFO Archivo subido correctamente
+2025-09-20 13:00:46 INFO Tarea programada ejecutada
+2025-09-20 13:01:09 ERROR Timeout en servicio externo
+2025-09-20 13:01:32 ERROR OverflowError en cálculo de cuotas
+2025-09-20 13:01:55 INFO Usuario inició sesión
+2025-09-20 13:02:18 INFO Proceso completado con éxito
+2025-09-20 13:02:41 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:03:04 DEBUG Payload recibido: {'id': 123}
+2025-09-20 13:03:27 INFO Usuario inició sesión
+2025-09-20 13:03:50 DEBUG Respuesta del API externa: {'status':'ok'}
+2025-09-20 13:04:13 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:04:36 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:04:59 INFO Tarea programada ejecutada
+2025-09-20 13:05:22 ERROR No se pudo conectar a la base de datos (request_id=8977)
+2025-09-20 13:05:45 WARNING SSL con certificado por vencer (request_id=6322)
+2025-09-20 13:06:08 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:06:31 INFO Archivo subido correctamente
+2025-09-20 13:06:54 WARNING Uso de memoria por encima de 75% (request_id=9570)
+2025-09-20 13:07:17 INFO Archivo subido correctamente
+2025-09-20 13:07:40 INFO Backup completado
+2025-09-20 13:08:03 INFO Tarea programada ejecutada (request_id=5286)
+2025-09-20 13:08:26 INFO Backup completado
+2025-09-20 13:08:49 INFO Archivo subido correctamente
+2025-09-20 13:09:12 INFO Archivo subido correctamente
+2025-09-20 13:09:35 WARNING Deprecación: función x() será removida
+2025-09-20 13:09:58 INFO Usuario inició sesión
+2025-09-20 13:10:21 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:10:44 WARNING Reintento automático en curso
+2025-09-20 13:11:07 DEBUG Respuesta del API externa: {'status':'ok'}
+2025-09-20 13:11:30 INFO Proceso completado con éxito (request_id=3598)
+2025-09-20 13:11:53 INFO Proceso completado con éxito
+2025-09-20 13:12:16 ERROR Excepción en módulo auth: IndexError
+2025-09-20 13:12:39 INFO Archivo subido correctamente (request_id=8567)
+2025-09-20 13:13:02 ERROR Segfault simulado en hilo trabajador
+2025-09-20 13:13:25 INFO Cache limpiada correctamente
+2025-09-20 13:13:48 ERROR Excepción en módulo auth: IndexError (request_id=4881)
+2025-09-20 13:14:11 INFO Proceso completado con éxito
+2025-09-20 13:14:34 WARNING Espacio en disco bajo en /var
+2025-09-20 13:14:57 INFO Proceso completado con éxito
+2025-09-20 13:15:20 ERROR Checksum mismatch en descarga
+2025-09-20 13:15:43 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:16:06 ERROR Conexión rechazada por el servidor
+2025-09-20 13:16:29 INFO Archivo subido correctamente
+2025-09-20 13:16:52 ERROR No se pudo conectar a la base de datos
+2025-09-20 13:17:15 DEBUG Payload recibido: {'id': 123}
+2025-09-20 13:17:38 INFO Tarea programada ejecutada
+2025-09-20 13:18:01 ERROR OverflowError en cálculo de cuotas
+2025-09-20 13:18:24 WARNING Reintento automático en curso
+2025-09-20 13:18:47 INFO Cache limpiada correctamente
+2025-09-20 13:19:10 INFO Conexión establecida con servicio externo (request_id=9721)
+2025-09-20 13:19:33 INFO Tarea programada ejecutada (request_id=9157)
+2025-09-20 13:19:56 INFO Cache limpiada correctamente
+2025-09-20 13:20:19 INFO Proceso completado con éxito
+2025-09-20 13:20:42 WARNING Latencia alta detectada
+2025-09-20 13:21:05 INFO Tarea programada ejecutada
+2025-09-20 13:21:28 DEBUG Respuesta del API externa: {'status':'ok'}
+2025-09-20 13:21:51 WARNING Reintento automático en curso
+2025-09-20 13:22:14 INFO Cache limpiada correctamente
+2025-09-20 13:22:37 WARNING Espacio en disco bajo en /var
+2025-09-20 13:23:00 WARNING Espacio en disco bajo en /var
+2025-09-20 13:23:23 INFO Cache limpiada correctamente
+2025-09-20 13:23:46 INFO Backup completado
+2025-09-20 13:24:09 ERROR Error de permisos al acceder a /var/data
+2025-09-20 13:24:32 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:24:55 INFO Archivo subido correctamente
+2025-09-20 13:25:18 WARNING Latencia alta detectada (request_id=4326)
+2025-09-20 13:25:41 INFO Backup completado
+2025-09-20 13:26:04 INFO Cache limpiada correctamente
+2025-09-20 13:26:27 INFO Archivo subido correctamente
+2025-09-20 13:26:50 INFO Conexión establecida con servicio externo
+2025-09-20 13:27:13 INFO Proceso completado con éxito (request_id=8372)
+2025-09-20 13:27:36 INFO Archivo subido correctamente
+2025-09-20 13:27:59 ERROR Excepción en módulo auth: IndexError
+2025-09-20 13:28:22 ERROR Error de permisos al acceder a /var/data (request_id=6549)
+2025-09-20 13:28:45 WARNING Latencia alta detectada (request_id=6916)
+2025-09-20 13:29:08 WARNING Reintento automático en curso
+2025-09-20 13:29:31 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:29:54 INFO Usuario inició sesión
+2025-09-20 13:30:17 DEBUG Payload recibido: {'id': 123}
+2025-09-20 13:30:40 WARNING Reintento automático en curso
+2025-09-20 13:31:03 INFO Tarea programada ejecutada
+2025-09-20 13:31:26 INFO Backup completado
+2025-09-20 13:31:49 ERROR OverflowError en cálculo de cuotas
+2025-09-20 13:32:12 WARNING Deprecación: función x() será removida
+2025-09-20 13:32:35 WARNING SSL con certificado por vencer (request_id=1850)
+2025-09-20 13:32:58 INFO Conexión establecida con servicio externo
+2025-09-20 13:33:21 ERROR No se pudo conectar a la base de datos (request_id=6465)
+2025-09-20 13:33:44 DEBUG Variables locales: {'i': 10, 'j': 5} (request_id=8344)
+2025-09-20 13:34:07 ERROR Error de permisos al acceder a /var/data
+2025-09-20 13:34:30 INFO Proceso completado con éxito
+2025-09-20 13:34:53 INFO Archivo subido correctamente
+2025-09-20 13:35:16 INFO Conexión establecida con servicio externo
+2025-09-20 13:35:39 ERROR Excepción en módulo auth: IndexError
+2025-09-20 13:36:02 WARNING Reintento automático en curso
+2025-09-20 13:36:25 DEBUG Respuesta del API externa: {'status':'ok'}
+2025-09-20 13:36:48 INFO Archivo subido correctamente (request_id=1271)
+2025-09-20 13:37:11 WARNING Latencia alta detectada
+2025-09-20 13:37:34 INFO Conexión establecida con servicio externo
+2025-09-20 13:37:57 INFO Tarea programada ejecutada
+2025-09-20 13:38:20 INFO Archivo subido correctamente
+2025-09-20 13:38:43 INFO Tarea programada ejecutada
+2025-09-20 13:39:06 INFO Tarea programada ejecutada
+2025-09-20 13:39:29 INFO Tarea programada ejecutada
+2025-09-20 13:39:52 DEBUG Variables locales: {'i': 10, 'j': 5}
+2025-09-20 13:40:15 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:40:38 ERROR OverflowError en cálculo de cuotas (request_id=2457)
+2025-09-20 13:41:01 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:41:24 ERROR No se pudo conectar a la base de datos
+2025-09-20 13:41:47 INFO Proceso completado con éxito
+2025-09-20 13:42:10 WARNING Reintento automático en curso
+2025-09-20 13:42:33 INFO Archivo subido correctamente
+2025-09-20 13:42:56 INFO Proceso completado con éxito
+2025-09-20 13:43:19 ERROR OverflowError en cálculo de cuotas
+2025-09-20 13:43:42 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:44:05 ERROR Timeout en servicio externo
+2025-09-20 13:44:28 ERROR Timeout en servicio externo
+2025-09-20 13:44:51 INFO Cache limpiada correctamente
+2025-09-20 13:45:14 ERROR Fallo al guardar archivo en disco
+2025-09-20 13:45:37 WARNING SSL con certificado por vencer (request_id=9760)
+2025-09-20 13:46:00 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:46:23 WARNING SSL con certificado por vencer (request_id=9336)
+2025-09-20 13:46:46 INFO Backup completado
+2025-09-20 13:47:09 WARNING Latencia alta detectada
+2025-09-20 13:47:32 ERROR Checksum mismatch en descarga
+2025-09-20 13:47:55 INFO Conexión establecida con servicio externo (request_id=7201)
+2025-09-20 13:48:18 INFO Conexión establecida con servicio externo
+2025-09-20 13:48:41 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:49:04 WARNING Latencia alta detectada
+2025-09-20 13:49:27 INFO Cache limpiada correctamente
+2025-09-20 13:49:50 ERROR Valor nulo inesperado en campo 'user_id' (request_id=1427)
+2025-09-20 13:50:13 ERROR Excepción en módulo auth: IndexError
+2025-09-20 13:50:36 ERROR Fallo al guardar archivo en disco
+2025-09-20 13:50:59 ERROR Valor nulo inesperado en campo 'user_id'
+2025-09-20 13:51:22 INFO Sesión expirada, usuario reconectado
+2025-09-20 13:51:45 INFO Backup completado
+2025-09-20 13:52:08 INFO Backup completado
+2025-09-20 13:52:31 WARNING Deprecación: función x() será removida
+2025-09-20 13:52:54 INFO Archivo subido correctamente
+2025-09-20 13:53:17 INFO Proceso completado con éxito
+2025-09-20 13:53:40 INFO Proceso completado con éxito (request_id=7431)
+2025-09-20 13:54:03 INFO Proceso completado con éxito
+2025-09-20 13:54:26 DEBUG Variables locales: {'i': 10, 'j': 5}
+2025-09-20 13:54:49 INFO Usuario inició sesión
+2025-09-20 13:55:12 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:55:35 ERROR No se pudo conectar a la base de datos
+2025-09-20 13:55:58 DEBUG Entrada función compute(): args=(1,2,3)
+2025-09-20 13:56:21 ERROR Checksum mismatch en descarga (request_id=4104)
+2025-09-20 13:56:44 WARNING Latencia alta detectada (request_id=8080)
+2025-09-20 13:57:07 ERROR OverflowError en cálculo de cuotas
+2025-09-20 13:57:30 WARNING Deprecación: función x() será removida
+2025-09-20 13:57:53 WARNING Uso de memoria por encima de 75%
+2025-09-20 13:58:16 ERROR Fallo al guardar archivo en disco
+2025-09-20 13:58:39 INFO Cache limpiada correctamente
+2025-09-20 13:59:02 WARNING Reintento automático en curso
+2025-09-20 13:59:25 INFO Conexión establecida con servicio externo
+2025-09-20 13:59:48 INFO Tarea programada ejecutada
+2025-09-20 14:00:11 WARNING Reintento automático en curso
+2025-09-20 14:00:34 WARNING Latencia alta detectada (request_id=4329)
+2025-09-20 14:00:57 INFO Archivo subido correctamente
+2025-09-20 14:01:20 ERROR Excepción en módulo auth: IndexError
+2025-09-20 14:01:43 INFO Usuario inició sesión
+2025-09-20 14:02:06 INFO Sesión expirada, usuario reconectado
+2025-09-20 14:02:29 INFO Proceso completado con éxito
+2025-09-20 14:02:52 ERROR Segfault simulado en hilo trabajador
+2025-09-20 14:03:15 WARNING Espacio en disco bajo en /var
+2025-09-20 14:03:38 INFO Tarea programada ejecutada
+2025-09-20 14:04:01 INFO Archivo subido correctamente
+2025-09-20 14:04:24 INFO Conexión establecida con servicio externo
+2025-09-20 14:04:47 WARNING SSL con certificado por vencer
+2025-09-20 14:05:10 ERROR Timeout en servicio externo
+2025-09-20 14:05:33 WARNING Uso de memoria por encima de 75% (request_id=9141)
+2025-09-20 14:05:56 ERROR Fallo al guardar archivo en disco
+2025-09-20 14:06:19 ERROR Timeout en servicio externo
+2025-09-20 14:06:42 ERROR Timeout en servicio externo
+2025-09-20 14:07:05 INFO Tarea programada ejecutada
+2025-09-20 14:07:28 INFO Usuario inició sesión
+2025-09-20 14:07:51 DEBUG Payload recibido: {'id': 123} (request_id=6513)
+2025-09-20 14:08:14 ERROR Timeout en servicio externo
+2025-09-20 14:08:37 INFO Tarea programada ejecutada
+2025-09-20 14:09:00 INFO Cache limpiada correctamente
+2025-09-20 14:09:23 INFO Sesión expirada, usuario reconectado (request_id=2864)
+2025-09-20 14:09:46 ERROR Conexión rechazada por el servidor
+2025-09-20 14:10:09 INFO Proceso completado con éxito (request_id=8271)
+2025-09-20 14:10:32 WARNING Uso de memoria por encima de 75% (request_id=5161)
+2025-09-20 14:10:55 INFO Archivo subido correctamente
+2025-09-20 14:11:18 INFO Conexión establecida con servicio externo
+2025-09-20 14:11:41 WARNING Deprecación: función x() será removida
+2025-09-20 14:12:04 ERROR Fallo al guardar archivo en disco
+2025-09-20 14:12:27 INFO Proceso completado con éxito
+2025-09-20 14:12:50 INFO Archivo subido correctamente
+2025-09-20 14:13:13 DEBUG Entrada función compute(): args=(1,2,3)
+2025-09-20 14:13:36 ERROR Valor nulo inesperado en campo 'user_id'
+2025-09-20 14:13:59 INFO Tarea programada ejecutada
+2025-09-20 14:14:22 DEBUG Entrada función compute(): args=(1,2,3)
+2025-09-20 14:14:45 INFO Usuario inició sesión
+2025-09-20 14:15:08 ERROR Excepción en módulo auth: IndexError
+2025-09-20 14:15:31 DEBUG Respuesta del API externa: {'status':'ok'}
+2025-09-20 14:15:54 INFO Archivo subido correctamente
+2025-09-20 14:16:17 INFO Cache limpiada correctamente

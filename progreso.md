@@ -12,10 +12,10 @@
 - [x] Ejercicio 7: Monitor simple de espacio en disco 	 	         — COMPLETADO
 - [x] Ejercicio 8: Llamada a una API REST (pública)   		         — COMPLETADO
 - [x] Ejercicio 9: Script programado con cron                        — COMPLETADO
-- [ ] Ejercicio 10: Analizador de logs       	                     — PENDIENTE
+- [x] Ejercicio 10: Analizador de logs       	                     — COMPLETADO
 
 ## Nivel 3: DevOps específico
-- [ ] Ejercicio 11: Script de prueba de servicios                       — PENDIENTE
+- [x] Ejercicio 11: Script de prueba de servicios                       — COMPLETADO
 - [ ] Ejercicio 12: Script para clonar repositorios de Git              — PENDIENTE
 - [ ] Ejercicio 13: Comparador de archivos de configuración             — PENDIENTE
 - [ ] Ejercicio 14: Generador de contraseñas seguras                    — PENDIENTE
